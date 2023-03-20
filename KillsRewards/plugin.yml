@@ -1,0 +1,18 @@
+main: davigamer161.killsrewards.KillsRewards
+version: 1.0.3
+name: KillsRewards
+
+commands:
+  kr:
+    description: El comando de principal de KillsRewards
+    aliases: [killsrewards, krewards]
+  kills:
+    description: El comando de las kills de KillsRewards
+    #aliases: [k]
+permissions:
+#  killsrewards.kills:
+#    description: Sirve para ver las kills
+  killsrewards.help:
+      description: Sirve para ver la ayuda
+  killsrewards.admin:
+    description: Todos los permisos

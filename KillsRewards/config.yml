@@ -1,0 +1,5 @@
+Config:
+  mensaje-help: true
+  mensaje-reload: true
+  mensaje-version: true
+  mensaje-recompensa: true
