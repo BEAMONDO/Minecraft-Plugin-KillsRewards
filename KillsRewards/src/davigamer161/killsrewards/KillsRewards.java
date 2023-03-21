@@ -25,6 +25,7 @@ public class KillsRewards extends JavaPlugin{
     PluginDescriptionFile pdffile = getDescription();
     public String version = pdffile.getVersion();
     public String nombre = pdffile.getName();
+    
 
 
   //---------------------Para cuando se activa el plugin----------------------------------//

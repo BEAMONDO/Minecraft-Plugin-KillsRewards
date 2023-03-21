@@ -16,3 +16,11 @@ Messages:
   - '&aHas recibido la recompensa'
   mensaje-no-recompensa:
   - '&cNo tienes espacio en el inventario, no has recibido la recompensa'
+  comando-no-existe:
+  - '&cEse comando no existe'
+  comando-no-argumento:
+  - '&eUsa /kr help para ver la lista de comandos'
+  mensaje-no-mob-kill: "&cTodavia no has matado ningun mob"
+  mensaje-no-mob-kill-unico: "&cTodavia no has matado ningun mob de este tipo"
+  mensaje-no-player-kill: "&cTodavia no has matado ningun jugador"
+  mensaje-matado: "&aHas matado &e"

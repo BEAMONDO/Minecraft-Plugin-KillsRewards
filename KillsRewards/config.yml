@@ -1,5 +1,45 @@
+# ###################################################################################### #
+# |------------------------------------------------------------------------------------| #
+# |                                                                                    | #
+# |                                                                                    | #
+# |                                                                                    | #
+# |                           __        __   ___           __   __   __   __           | #
+# |         |__/ | |    |    /__`      |__) |_   \  /\  / |__| |__) |  \ /__`          | #
+# |         |  \ | |___ |___ .__/      |  \ |___  \/  \/  |  | |  \ |__/ .__/          | #
+# |                                                                                    | #
+# |                                                                                    | #
+# |                                                                                    | #
+# |      Youtube:      www.youtube.com/@davigamer1614                                  | #
+# |      Github:                            | #
+# |                                                                                    | #
+# |                                                                                    | #
+# |                                                                                    | #
+# |------------------------------------------------------------------------------------| #
+# ###################################################################################### #
+
 Config:
+# activar o desactivar el mensaje de ayuda /kr help
   mensaje-help: true
+# activar o desactivar el mensaje de reload /kr reload
   mensaje-reload: true
+# activar o desactivar el mensaje de version /kr version
   mensaje-version: true
+# activar o desactivar el mensaje de recompensa
   mensaje-recompensa: true
+# 
+# 
+  recompensa-mobs: 
+# numero de kills para recibir la primera recompensa
+    first-reward-number-of-kills: 10
+# id del item que va a recibir al llegar al numero de kills de la primera recompensa
+    first-reward-item-id: 264
+# cantidad del item que va a recibir al llegar al numero de kills de la primera recompensa
+    first-reward-item-amount: 1
+# 
+# 
+# numero de kills para recibir la segunda recompensa
+    second-reward-number-of-kills: 20
+# id del item que va a recibir al llegar al numero de kills de la segunda recompensa
+    second-reward-item-id: 152
+# cantidad del item que va a recibir al llegar al numero de kills de la segunda recompensa
+    second-reward-item-amount: 5
